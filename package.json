@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-xo-expo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": {
     "url": "git+https://github.com/open-southeners/eslint-config-xo-expo.git"
   },
@@ -18,7 +18,6 @@
     "eslint-config-xo-react": "^0.28.0"
   },
   "files": [
-    "eslint.config.js",
     "index.js"
   ],
   "keywords": [
