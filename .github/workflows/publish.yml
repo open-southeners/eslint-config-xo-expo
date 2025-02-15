@@ -6,7 +6,7 @@ on:
       - '**'
 
 jobs:
-  # @see https://stackoverflow.com/a/72959712/8179249
+  # @see https://stackoverflow.com/a/77727776
   check-current-branch:
     runs-on: ubuntu-latest
 
