@@ -5,17 +5,18 @@
     "url": "git+https://github.com/open-southeners/eslint-config-xo-expo.git"
   },
   "license": "MIT",
-  "module": "index.js",
-  "type": "module",
+  "main": "index.js",
   "devDependencies": {
     "@types/bun": "latest"
   },
   "peerDependencies": {
+    "eslint": ">=9.8.0",
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "eslint-config-xo": "^0.46.0",
-    "eslint-config-xo-react": "^0.28.0"
+    "eslint": "^9.20.1",
+    "eslint-plugin-react": "^7.37.4",
+    "eslint-plugin-react-hooks": "^5.1.0"
   },
   "files": [
     "index.js"
