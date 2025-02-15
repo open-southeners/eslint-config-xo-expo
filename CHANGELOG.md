@@ -7,7 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.4] - 2025-02-16
+
+### Fixed
+
+- CommonJS to support usage on xo's `extends` config property
+
 ## [1.0.3] - 2025-02-15
+
+### Fixed
 
 - Type module on `package.json` (messed up)
 

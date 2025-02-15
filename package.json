@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-xo-expo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "repository": {
     "url": "git+https://github.com/open-southeners/eslint-config-xo-expo.git"
   },
