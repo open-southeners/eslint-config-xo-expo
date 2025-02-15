@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-xo-expo",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "eslint-config-xo": "^0.46.0",
+    "eslint-config-xo-react": "^0.28.0"
+  }
+}
