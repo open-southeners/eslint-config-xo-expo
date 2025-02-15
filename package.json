@@ -1,11 +1,12 @@
 {
   "name": "eslint-config-xo-expo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": {
     "url": "git+https://github.com/open-southeners/eslint-config-xo-expo.git"
   },
   "license": "MIT",
-  "main": "index.js",
+  "module": "index.js",
+  "type": "module",
   "devDependencies": {
     "@types/bun": "latest"
   },
